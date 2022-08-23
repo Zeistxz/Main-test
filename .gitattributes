@@ -1,1 +1,2 @@
-app/* linguist-documentation=false
+* linguist-vendored
+*.cpp linguist-vendored=false
